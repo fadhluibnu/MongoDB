@@ -44,7 +44,7 @@ MongoDb merupakan sebuah document Store paling popular
   </tr>
   <tr>
     <td>Join Table</td>
-    <td>Embedded Documnet, Reference</td>
+    <td>Embedded Documnet, Reference</td> 
   </tr>
   <tr>
     <td>SQL</td>
